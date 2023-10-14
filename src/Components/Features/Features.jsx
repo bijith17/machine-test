@@ -4,7 +4,7 @@ import { FaCartShopping, FaCircleDollarToSlot, FaCrown, FaGofore } from "react-i
 function Features() {
   return (
     <div className='bg-green-200 h-screen'>
-    <div className=' container mx-auto grid grid-cols-1 sm:grid-col-2 lg:grid-cols-3 sm:px-4 md:px-6 lg:px-10'>
+    <div className='pt-10 container mx-auto grid grid-cols-1 sm:grid-col-2 lg:grid-cols-3 sm:px-4 md:px-6 lg:px-10'>
         <div className="bg-violet-500 text-white sm:rounded-tl-xl sm:rounded-bl-xl p-7 shadow-lg shadow-slate-900/90">
             <div className="content my-4">
             <div className="flex  ">
